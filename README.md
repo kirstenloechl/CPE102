@@ -1,2 +1,2 @@
 # CPE102
-Projects and Labs
+Labs and a project from CPE 102 at Cal Poly with Professor Meera Jani
